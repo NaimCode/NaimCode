@@ -31,10 +31,10 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **diplomaHub** a DApp for certification in the blockchain<br>
-✔ I’m currently learning **Machine Learning** & **Deep Learning**<br>
+✔ I’m currently Developing **ShoppyCard** a web app for making thumbnail and poster<br>
+✔ I’m currently learning **Machine Learning** & **Deep Learning*  & **Image processing**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Kafka**<br>
+✔ I’m looking for help for learning **T3 stack**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
