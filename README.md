@@ -16,10 +16,9 @@
 
 <p align="center">
   <em>
-    This is ME, Naïm Abdelkerim, a <b>final year</b> undergraduate from <a href="https://www.isga.ma/"> <b>ISGA of Rabat</b></a>. <br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    This is ME, Naïm Abdelkerim. <br>
+    A budding <b>Software Engineer</b> at  <b>SQLi</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself >and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
@@ -31,7 +30,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **ETERNUM** a web app for making thumbnail and poster<br>
+✔ I’m currently Developing **CARNET** a web app for making thumbnail and poster<br>
 ✔ I’m currently learning **RUST**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Machine Learning** & **Deep Learning**<br>
